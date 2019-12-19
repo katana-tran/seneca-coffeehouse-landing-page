@@ -1,0 +1,91 @@
+.free-trial-shop-panel {
+    display:flex;
+    width:100%;
+    height:500px;
+    background-color: #4d3e2e;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.coffee-bag-container-image {
+    width: 520px;
+    height: 100%;
+    padding-right: 50px;
+}
+
+.coffee-shop-image {
+    width: 700px;
+    height: 100%;
+    margin-left: 100px
+}
+
+.coffee-shop-promise-panel {
+    display: flex;
+    width: 100%;
+    height: 300px;
+    flex-direction: row;
+    align-items:center;
+}
+
+.title-text {
+    font-size: 50px;
+    color: white;
+    text-shadow: 5px 5px black;
+}
+
+.title-subtext {
+    font-size: 30px;
+    color: white;
+}
+
+.free-trial-left-panel {
+    margin-left: 25px;
+}
+
+.coffee-shop-right-panel {
+    margin-right: 10%
+}
+
+.organically-sourced-panel {
+    width: 100%;
+    height: 450px;
+    background-color: rgb(107, 195, 201)
+}
+
+.coffee-card-container {
+    display:flex;
+    flex-direction:row;
+    align-items: align-items;
+    justify-content: space-evenly;
+}
+
+.organically-sourced-h1 {
+    padding-left: 30%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 40px;
+    text-shadow: 3px 3px grey
+}
+
+.email-updates {
+    display:flex;
+    background-color: rgb(62, 62, 62);
+    width: 100%;
+    height: 200px;
+    flex-direction:column;
+    padding-top: 30px;
+    padding-left:30px;
+}
+
+.inverted-h1-font {
+    color:white;
+    font-size: 40px;
+    margin-bottom:-10px
+}
+
+.inverted-h3-font {
+    color: white;
+    font-size:20px
+}
